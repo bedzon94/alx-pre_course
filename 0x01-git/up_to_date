@@ -1,0 +1,15 @@
+I used Visual Studio Code for the git command line
+
+["git pull"]
+
+["git status "]
+
+["git add up_to_date"]
+
+["git status"]
+
+["git merge"]
+
+["git commit -m “How to be up to date in git” "]
+
+["git push origin main"]
